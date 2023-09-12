@@ -1,0 +1,14 @@
+.country{
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+}
+.visited{
+    background-color: bisque;
+    border: 2px solid salmon;
+}
+.non-visited{
+    background-color: white;
+    border: 2px solid greenyellow;
+}
